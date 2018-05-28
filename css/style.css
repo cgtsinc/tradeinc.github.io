@@ -1013,10 +1013,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #portfolio .portfolio-item .portfolio-info h4 {
   font-size: 18px;
-  line-height: 1px;
+  line-height: 20px;
   font-weight: 700;
-  margin-bottom: 18px;
+  margin-bottom: 5px;
   padding-bottom: 0;
+  margin-top: -10px;
 }
 
 #portfolio .portfolio-item .portfolio-info h4 a {
